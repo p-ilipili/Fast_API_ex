@@ -1,0 +1,6 @@
+question;subject;use;correct;responseA;responseB;responseC;responseD;remark
+Docker permet de persister des changements;Docker;Test de positionnement;C;Oui;Non;Oui à condition d'utiliser des volumes;;
+Que signifie le sigle No-SQL ?;BDD;Test de positionnement;A;Pas seulement SQL;Pas de SQL;Pas tout SQL;;
+Cassandra et HBase sont des bases de données;BDD;Test de positionnement;C;relationnelles;orientées objet;orientées colonne;orientées graphe;
+OrientDB et Neo4J sont des bases de données;BDD;Test de positionnement;D;relationnelles;orientées objet;orientées colonne;orientées graphe;
+DockerHub est;Docker;Test de positionnement;C;un système qui permet de lancer plusieurs containers d'un coup;un système d'orchestration de containers;un répertoire d'images Docker;;
